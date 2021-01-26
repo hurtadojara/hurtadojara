@@ -5,6 +5,8 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrés-hurtado-dev/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:andreshurtadojaramillo@gmail.com)
 
+Young and passionate ¡!
+
 Welcome to my Github page! I am Andrés and I am currently finishing my FullStack development track!  
 
 <img align="right" alt="img" src="https://i.pinimg.com/originals/62/92/79/629279072d12f85c03538fd851723e90.gif" width="50%" height="auto" />
