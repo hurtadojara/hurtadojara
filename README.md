@@ -1,11 +1,11 @@
 ### Hey, Bro 👋 
 ### This is Andrés Hurtado!
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/FernandoRoldan93)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/hurtadojara)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrés-hurtado-dev/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:andreshurtadojaramillo@gmail.com)
 
-Welcome to my Github page! I am Andréso and I am currently finishing my FullStack development track!  
+Welcome to my Github page! I am Andrés and I am currently finishing my FullStack development track!  
 
 <img align="right" alt="img" src="https://i.pinimg.com/originals/62/92/79/629279072d12f85c03538fd851723e90.gif" width="50%" height="auto" />
 
@@ -21,6 +21,8 @@ Welcome to my Github page! I am Andréso and I am currently finishing my FullSta
 - Coding at least 4 hours a day
 - Exercising 3 days a week
 - daily meditation. Be here, mindfullness
+
+### always serching for my best aptitudes, i want to be better, help me with that ###
 
 #### :computer: Programming languages and tools: 
 <p>
